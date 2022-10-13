@@ -5,7 +5,7 @@
 <img width="50%" align="right" src="https://media.giphy.com/media/UV4rSwlTM7mnRa5l4o/giphy.gif">   
 <img width="50%" align="right" src="https://github-profile-trophy.vercel.app/?username=amekudeku&margin-w=5&margin-h=5&column=3&title=Stars,Followers,Commit">
 
-Hi, my name is Yaroslav! I'm 18 year old C# developer! I like music, coding, and playing video games!
+Hi, my name is Yaroslav! I'm 19 year old C# developer! I like music, coding, and playing video games!
 
 
 ### Languages & Tools
